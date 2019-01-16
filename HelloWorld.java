@@ -13,4 +13,7 @@ public class HelloWorld {
 private void f3() {
  // Placeholder method (v3.0)
 }
+private void f4() {
+    // Placeholder method (v7.0)
+   }
 }
